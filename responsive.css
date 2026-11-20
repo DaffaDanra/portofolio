@@ -1,0 +1,11 @@
+@media screen and (max-width: 576px) {
+    .all-body-cover {
+        margin-top: 80px;
+    }
+    .initial {
+        font-size: 22px;
+    }
+    .card {
+        margin-bottom: 15px;
+    }
+}
